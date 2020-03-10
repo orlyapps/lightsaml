@@ -1,5 +1,5 @@
 {
-    "name": "forlabs/lightsaml",
+    "name": "qikker-online/lightsaml",
     "license": "MIT",
     "type": "library",
     "description": "Fork of Light SAML 2.0 PHP library",
@@ -20,8 +20,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/4Labs/lightsaml/issues",
-        "source": "https://github.com/4Labs/lightSAML",
+        "issues": "https://github.com/qikker-online/lightSAML/issues",
+        "source": "https://github.com/qikker-online/lightSAML",
         "docs": "http://www.lightsaml.com/LightSAML-Core/"
     },
     "autoload": {
